@@ -1,0 +1,6 @@
+[package]
+name = "sonico"
+version = "0.1.0"
+authors = ["Lorenzo <lorenzofersteam@live.it>"]
+
+[dependencies]
