@@ -4,3 +4,7 @@ version = "0.1.0"
 authors = ["Lorenzo <lorenzofersteam@live.it>"]
 
 [dependencies]
+hyper = "0.9.10"
+baal = "0.3.0"
+google-youtube3 = "0.1.14"
+yup-oauth2 = "0.6.2"
